@@ -8,7 +8,7 @@ For disabling your thermal and boost your phone
 - Install the module via Magisk/KernelSU/APatch Manager.
 - Reboot your device for the changes to take effect.
 # Changelog 💻
-- Read full **Changelog** [Here]
+- Read full **Changelog** [Here](https://github.com/PersonPemula/Mvast-Disable-Thermal/blob/9c3e17ef1d5c994dd1144205f3e9ca4b41f868ec/changelog.md)
 # Credits 📌
 - Thanks to @Zyarexx
 # From Person 👤
