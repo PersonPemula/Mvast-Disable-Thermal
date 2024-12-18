@@ -1,3 +1,5 @@
+![alt text](https://github.com/PersonPemula/Mvast-Disable-Thermal/blob/main/img/sovereigns_hydro.png?raw=true?raw=true)
+
 # Mvast Disable Thermal 🔥
 For disabling your thermal and boost your phone
 # Requirements ❓
